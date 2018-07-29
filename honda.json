@@ -1,0 +1,34 @@
+{
+    "manufacter": {
+        "name": "honda", 
+        "country": "Japan"
+    }, 
+    "motor": {
+        "cilindrada": "599cc", 
+        "cambio": "6", 
+        "cilindros": "4",
+        "regimenPotencia":"12000",
+        "potencia":"102cv"
+    }, 
+    "description":"Presenta para el 2014 algunas novedades en la gama de la pintura, pero mantiene la base de una moto moderna en concepcion y diseño.",
+   
+    "id": "honda", 
+    "images": [
+        "img/motos/honda.jpg",
+        "img/motos/honda2.jpg",
+        "img/motos/honda3.jpg"
+    ], 
+    "name": "Honda CB 600F Hornet", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "2150 mm (w)", 
+            "735 mm (h)", 
+            "1100 mm (l)"
+        ], 
+
+        "weight": "211.0 Kg"
+    }, 
+    "space": {
+        "volume": "15L"
+    }
+}

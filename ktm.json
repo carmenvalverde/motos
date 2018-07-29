@@ -1,0 +1,32 @@
+{
+    "manufacter": {
+        "name": "KTM", 
+        "country": "España"
+    }, 
+    "motor": {
+        "cilindrada": "690cc", 
+        "cambio": "6", 
+        "cilindros": "1",
+        "regimenPotencia":"7500",
+        "potencia":"70cv"
+    }, 
+    "description": "En el 2016, ha recibido muchas mejoras en todos los niveles. Sin alterar su diseño pero ofreciendo mas potencia.",
+    "id": "ktm", 
+    "images": [
+        "img/motos/ktm.jpg",
+        "img/motos/ktm2.jpg",
+        "img/motos/ktm3.jpg"
+    ], 
+    "name": "KTM 690 Duke R", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "1466 mm (w)", 
+            "835 mm (h)", 
+            "1160.4 mm (l)"
+        ], 
+        "weight": "149.0 Kg"
+    }, 
+    "space": {
+        "volume": "19L"
+    }
+}

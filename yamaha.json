@@ -1,0 +1,34 @@
+{
+    "manufacter": {
+        "name": "YAMAHA",
+        "country": "Japan"
+    },
+    "motor": {
+        "cilindrada": "779cc",
+        "cambio": "6",
+        "cilindros": "4",
+        "regimenPotencia":"10000",
+        "potencia":"106,2cv"
+    },
+    "description":"Es la moto naked de media cilindrada que ha sustituido a la FZ 6. Se basa en un poderoso motor tetracilindro muy elastico y buena potencia",
+
+    "id": "yamaha", 
+    "images": [
+        "img/motos/yamaha.jpg",
+         "img/motos/yamaha1.jpg",
+        "img/motos/yamaha2.jpg"
+    ],
+    "name": "Yamaha FZ 8N",
+    "sizeAndWeight": {
+        "dimensions": [
+            "1466 mm (w)",
+            "835 mm (h)",
+            "1100 mm (l)"
+        ],
+
+        "weight": "211.0 Kg"
+    },
+    "space": {
+        "volume": "11L"
+    }
+}

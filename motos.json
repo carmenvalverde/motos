@@ -1,0 +1,24 @@
+[
+
+    {
+        "model": 2017, 
+        "id": "yamaha", 
+        "imageUrl": "img/motos/yamaha.jpg", 
+        "name": "Yamaha FZ 8N", 
+        "snippet": "La mejor moto deportiva."
+    },
+    {
+        "model": 2016, 
+        "id": "ktm", 
+        "imageUrl": "img/motos/ktm.jpg", 
+        "name": "KTM 690 Duke R", 
+        "snippet": "Es un fierro."
+    },
+    {
+        "model": 2014, 
+        "id": "honda", 
+        "imageUrl": "img/motos/honda.jpg", 
+        "name": "Honda CB 600F Hornet", 
+        "snippet": "Es como andar sobre nubes."
+    }
+]
